@@ -10,8 +10,5 @@ public class Product {
 		System.out.println(this.name);
 		System.out.print("      Fiyat :"+this.cost);
 		System.out.println("      Miktar :"+this.quan);
-		
-		
-		//sadfdsfsd
 	}
 }
