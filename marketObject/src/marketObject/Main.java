@@ -10,7 +10,7 @@ public class Main {
 		apple.name="Seben Elmasý";
 		apple.cost=34.89;
 		apple.quan=16.8;
-		apple.price=apple.quan*apple.cost;
+		apple.price=apple.getPrice();
 		
 		tomato.name="Cherry Domates";
 		tomato.cost=28.99;
@@ -25,8 +25,9 @@ public class Main {
 		edebiyat.pageCount=245;
 		
 		System.out.println(apple.name+"  "+apple.quan);
-		tomato.print();
+		bananas.print();
 		apple.print();
+		System.out.println(apple.getPrice());
 	
 	}
 
