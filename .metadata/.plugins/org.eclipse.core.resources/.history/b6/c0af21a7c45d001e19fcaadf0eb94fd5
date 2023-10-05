@@ -1,0 +1,15 @@
+package phoneTest;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String model;
+		Double ram;
+		Double cpu;
+		int coreCount;
+		model="Xiaomi Note 10 Lite";
+		ram=6.0*1024;
+		
+	}
+
+}

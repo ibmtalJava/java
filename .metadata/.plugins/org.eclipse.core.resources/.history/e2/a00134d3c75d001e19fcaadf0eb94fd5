@@ -1,0 +1,22 @@
+package phoneTest;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String model;
+		double ram;
+		double cpu;
+		int coreCount;
+		double performance;
+		double maxRam=32*1024;
+		double maxCpu=4800;
+		model="Xiaomi Note 10 Lite";
+		ram=6*1024;//6144
+		cpu=2400;
+		coreCount=4;
+		performance=((0.4*ram/maxRam)+(0.6*cpu/maxCpu))*100;//(0,15)+(0,4)
+		System.out.println(model+" : %"+performance);
+		
+	}
+
+}

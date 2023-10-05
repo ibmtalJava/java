@@ -1,0 +1,16 @@
+package marketObject;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Product apple=new Product();
+		Product bananas=new Product();
+		apple.name="Seben Elmasý";
+		apple.cost=34.89;
+		apple.quan=16.8;
+		apple.price=apple.quan*apple.cost;
+		System.out.println(apple.name+"  "+apple.quan);
+	
+	}
+
+}

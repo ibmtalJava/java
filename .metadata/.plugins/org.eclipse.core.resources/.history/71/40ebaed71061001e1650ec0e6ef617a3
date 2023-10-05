@@ -1,0 +1,6 @@
+package computerShop;
+
+public class Cpu {
+	public String name;
+	public String brand;
+}

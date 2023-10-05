@@ -1,0 +1,18 @@
+package carPerformance;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String carName="BMW E30";
+		double motorPower=112.7;
+		int cylinderCount=4;
+		double rimSize=16;
+		double maxMotorPower=640;
+		int maxCylinderSize=16;
+		double maxRimSize=23;
+		double motorPowerRate=0.55*motorPower/maxMotorPower*100;
+		
+
+	}
+
+}

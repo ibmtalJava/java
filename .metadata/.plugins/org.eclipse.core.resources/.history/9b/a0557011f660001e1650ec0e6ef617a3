@@ -1,0 +1,10 @@
+package marketObject;
+
+public class Main {
+
+	public static void main(String[] args) {
+		Product apple=new Product();
+
+	}
+
+}

@@ -1,0 +1,9 @@
+package marketObject;
+
+public class Product {
+	public String name;
+	public double cost;
+	public double quan;
+	public double price;
+	
+}
