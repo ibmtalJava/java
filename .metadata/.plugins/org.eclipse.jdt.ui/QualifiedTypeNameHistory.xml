@@ -6,4 +6,6 @@
     <fullyQualifiedTypeName name="marketObject.Book"/>
     <fullyQualifiedTypeName name="computerShop.GraphicCard"/>
     <fullyQualifiedTypeName name="computerShop.Cpu"/>
+    <fullyQualifiedTypeName name="classMethod.Villa"/>
+    <fullyQualifiedTypeName name="arabamCom.Otomobil"/>
 </qualifiedTypeNameHistroy>

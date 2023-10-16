@@ -13,7 +13,7 @@ public class Villa {
 	public double arsaHesap() {
 		return this.m2*3;
 
-	}
+	} 
 	
 
 }

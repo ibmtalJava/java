@@ -1,0 +1,35 @@
+package constructor;
+
+public class House {
+//caption price m2 floorCount pool
+	public String caption;
+	public double price;
+	public double m2;
+	public int floorCount;
+	public Boolean pool;
+	public House() {
+		
+	}
+	public House(String caption,double price,double m2,int floorCount,boolean pool) {
+		this.caption=caption;
+		this.price=price;
+		this.m2=m2;
+		this.floorCount=floorCount;
+		this.pool=pool;
+	}
+	public House(String caption,double price, int floorCount) {
+		this.caption=caption;
+		this.price=price;
+		this.floorCount=floorCount;
+		
+	}
+	public void evBilgileri() {
+		System.out.println("-----------------");
+		System.out.println(this.caption);
+		System.out.println("Fiyat     : "+this.price+" TL");
+		System.out.println("Metrekare : "+this.m2+" m2");
+		System.out.println("Kat Sayýsý : "+this.floorCount);
+		System.out.println("Havuz : "+this.pool);
+		
+	}
+}
