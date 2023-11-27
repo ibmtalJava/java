@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.lang.Double"/>
     <fullyQualifiedTypeName name="marketObject.Product"/>
     <fullyQualifiedTypeName name="marketObject.Book"/>
@@ -8,4 +7,11 @@
     <fullyQualifiedTypeName name="computerShop.Cpu"/>
     <fullyQualifiedTypeName name="classMethod.Villa"/>
     <fullyQualifiedTypeName name="arabamCom.Otomobil"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.io.Console"/>
+    <fullyQualifiedTypeName name="constructor.Apartment"/>
+    <fullyQualifiedTypeName name="java.lang.Boolean"/>
+    <fullyQualifiedTypeName name="constructor.House"/>
+    <fullyQualifiedTypeName name="constructor.Residence"/>
+    <fullyQualifiedTypeName name="degiskentest.Tv"/>
 </qualifiedTypeNameHistroy>
