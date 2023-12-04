@@ -8,10 +8,15 @@
     <fullyQualifiedTypeName name="classMethod.Villa"/>
     <fullyQualifiedTypeName name="arabamCom.Otomobil"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="java.io.Console"/>
     <fullyQualifiedTypeName name="constructor.Apartment"/>
     <fullyQualifiedTypeName name="java.lang.Boolean"/>
     <fullyQualifiedTypeName name="constructor.House"/>
     <fullyQualifiedTypeName name="constructor.Residence"/>
     <fullyQualifiedTypeName name="degiskentest.Tv"/>
+    <fullyQualifiedTypeName name="gettersetter.Shoe"/>
+    <fullyQualifiedTypeName name="java.io.Console"/>
+    <fullyQualifiedTypeName name="gettersetter.Pad"/>
+    <fullyQualifiedTypeName name="gettersetter.TShirt"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="perfumeriShop.Perfume"/>
 </qualifiedTypeNameHistroy>
